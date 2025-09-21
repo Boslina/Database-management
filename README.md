@@ -206,6 +206,4 @@ FROM books;
 
 **\Abosede Bamidele** – SQL & Database Final Project
 
----
 
-👉 Do you want me to also add an **ERD diagram sketch (tables + relationships)** section so it looks more visual for presentation?
